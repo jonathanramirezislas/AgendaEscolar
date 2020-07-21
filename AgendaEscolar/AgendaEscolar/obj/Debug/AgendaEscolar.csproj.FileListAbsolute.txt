@@ -1,0 +1,23 @@
+c:\users\miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.exe.config
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.exe
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.pdb
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.agendaForm.resources
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.Properties.Resources.resources
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.csproj.GenerateResource.Cache
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.exe
+C:\Users\Miguel\documents\visual studio 2015\Projects\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.pdb
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.exe.config
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.exe
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.pdb
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.exe
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.pdb
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.agendaForm.resources
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.Properties.Resources.resources
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.csproj.GenerateResource.Cache
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.Mostrar.resources
+C:\Users\Jonas\Videos\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.Seleccionado.resources
+C:\Users\Jona\Documents\AgendaEscolar\AgendaEscolar\bin\Debug\AgendaEscolar.exe.config
+C:\Users\Jona\Documents\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.exe
+C:\Users\Jona\Documents\AgendaEscolar\AgendaEscolar\obj\Debug\AgendaEscolar.pdb
